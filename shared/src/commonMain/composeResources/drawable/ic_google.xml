@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icono de Google exportado del diseño de Figma (nodo "branding_guideline_sample_lt_rd_sl 1"). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Círculo blanco de fondo -->
+    <group
+        android:translateX="0.3"
+        android:translateY="0.3">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M23.4,11.7C23.4,5.23827 18.1617,0 11.7,0C5.23827,0 0,5.23827 0,11.7C0,18.1617 5.23827,23.4 11.7,23.4C18.1617,23.4 23.4,18.1617 23.4,11.7Z" />
+    </group>
+
+    <!-- Letra G -->
+    <group
+        android:translateX="6"
+        android:translateY="6">
+        <path
+            android:fillColor="#4285F4"
+            android:pathData="M11.76,6.13638C11.76,5.71092 11.7218,5.30184 11.6509,4.90908H6V7.23H9.22908C9.09,7.98 8.6673,8.61546 8.03184,9.04092V10.5464H9.97092C11.1055,9.50184 11.76,7.96362 11.76,6.13638Z" />
+        <path
+            android:fillColor="#34A853"
+            android:pathData="M6,12C7.62,12 8.97816,11.4627 9.97086,10.5464L8.03178,9.04092C7.49454,9.40092 6.80724,9.61362 6,9.61362C4.43724,9.61362 3.11454,8.55816 2.6427,7.14H0.63816V8.69454C1.62546,10.6555 3.65454,12 6,12Z" />
+        <path
+            android:fillColor="#FBBC04"
+            android:pathData="M2.6427,7.14C2.5227,6.78 2.45454,6.39546 2.45454,6C2.45454,5.60454 2.5227,5.22 2.6427,4.86V3.30546H0.63816C0.23184,4.11546 0,5.03184 0,6C0,6.96816 0.23184,7.88454 0.63816,8.69454L2.6427,7.14Z" />
+        <path
+            android:fillColor="#E94235"
+            android:pathData="M6,2.38638C6.88086,2.38638 7.67178,2.68908 8.29362,3.28362L10.0145,1.5627C8.97546,0.59454 7.61724,0 6,0C3.65454,0 1.62546,1.34454 0.63816,3.30546L2.6427,4.86C3.11454,3.44184 4.43724,2.38638 6,2.38638Z" />
+    </group>
+
+    <!-- Borde gris del círculo -->
+    <group
+        android:translateX="-0.2"
+        android:translateY="-0.2">
+        <path
+            android:strokeColor="#747775"
+            android:strokeWidth="1"
+            android:pathData="M12.2,0.5C18.6617,0.5 23.9,5.73827 23.9,12.2C23.9,18.6617 18.6617,23.9 12.2,23.9C5.73827,23.9 0.5,18.6617 0.5,12.2C0.5,5.73827 5.73827,0.5 12.2,0.5Z" />
+    </group>
+</vector>
